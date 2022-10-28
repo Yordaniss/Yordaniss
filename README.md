@@ -1,8 +1,8 @@
-### Hi there 👋
-
-I am Dmytro or just Dimi, software developer, who likes code and try new technologies.
-
 <div align="center">
+
+  ### Hi there 👋
+
+  I am Dmytro or just Dimi, software developer, who likes code and try new technologies.
 
   Languages that i use:
 
