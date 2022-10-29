@@ -47,7 +47,13 @@
   </div>
   
   <h2>Hacktoberfest</h2>
+  
+  [![@yordaniss's Holopin board](https://holopin.me/yordaniss)](https://holopin.io/@yordaniss)
+  
+  <div style="display:inline;">
+  <h2>Other Badges</h2>
+
+  <img src="https://user-images.githubusercontent.com/68282006/198851425-02865de8-7780-4e3f-8648-90851923bc6a.png" width="150" height="150">
+
+  </div>
 </div>
-
-[![@yordaniss's Holopin board](https://holopin.me/yordaniss)](https://holopin.io/@yordaniss)
-
