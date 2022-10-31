@@ -2,9 +2,9 @@
 
   ### Hi there 👋
 
-  I am Dmytro or just Dimi, software developer, who likes code and try new technologies.
+  I am Dmytro or just Dimi, software developer, who likes to code and try new technologies.
 
-  Languages that i use:
+  Languages i use:
 
   <div style="display:inline;">
 
@@ -16,7 +16,7 @@
 
   </div>
 
-  Frameworks that i use:
+  Frameworks i use:
 
   <div style="display:inline;">
 
@@ -30,7 +30,7 @@
 
   </div>
 
-  Other technologie:
+  Other technologies i use:
 
   <div style="display:inline;">
 
