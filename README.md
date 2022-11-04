@@ -46,7 +46,7 @@
 
   </div>
   
-  <h2>Hacktoberfest</h2>
+  <h2>Holopin badge board</h2>
   
   [![@yordaniss's Holopin board](https://holopin.me/yordaniss)](https://holopin.io/@yordaniss)
   
