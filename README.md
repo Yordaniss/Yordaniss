@@ -43,6 +43,10 @@
   <img src="https://user-images.githubusercontent.com/68282006/197608181-b9fa17f5-fa29-4c46-b1ab-df46b544f764.svg" width="48" height="48">
 
   <img src="https://user-images.githubusercontent.com/68282006/197608540-ca1e4308-a2ad-4232-9728-a9a3df2a39ad.svg" width="48" height="48">
+  
+  <img src="https://user-images.githubusercontent.com/68282006/200177809-e2cf7750-286a-45e7-9f75-7d29e3c04788.svg" width="48" height="48">
+    
+  <img src="https://user-images.githubusercontent.com/68282006/200177827-47bfa115-d583-4173-bad6-718f56e6310b.svg" width="48" height="48">
 
   </div>
   
