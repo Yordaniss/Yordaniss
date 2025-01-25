@@ -4,7 +4,7 @@
 
   I am Dmytro or just Dimi, software developer, who likes to code and try new technologies.
 
-  Languages i use:
+  Languages I am working with:
 
   <div style="display:inline;">
 
@@ -16,7 +16,7 @@
 
   </div>
 
-  Frameworks i use:
+  Frameworks I am working with:
 
   <div style="display:inline;">
 
@@ -30,7 +30,7 @@
 
   </div>
 
-  Other technologies i use:
+  Other technologies I am using:
 
   <div style="display:inline;">
 
@@ -58,6 +58,6 @@
   <h2>Other Badges</h2>
 
   <img src="https://user-images.githubusercontent.com/68282006/198851425-02865de8-7780-4e3f-8648-90851923bc6a.png" width="150" height="150">
-
+  <img src="https://github.com/user-attachments/assets/53610e62-438f-4565-a0ab-0b4ee3d087ee" width="150" height="150">
   </div>
 </div>
